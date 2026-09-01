@@ -13,3 +13,4 @@ calc_resistance.__doc__= """
     Returns:
     float: The resistance in ohms.
     """
+
